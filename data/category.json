@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "baju"
+    },
+    {
+        "id": 2,
+        "name": "celana"
+    },
+    {
+        "id": 3,
+        "name": "sepatu"
+    },
+    {
+        "id": 4,
+        "name": "jaket"
+    },
+    {
+        "id": 5,
+        "name": "topi"
+    }
+]
