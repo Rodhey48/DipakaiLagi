@@ -1,0 +1,278 @@
+[
+    {
+        "id": 1,
+        "name": "Red Dickies Original Full Tag Crewneck",
+        "price": 85000,
+        "photo1": "https://cf.shopee.co.id/file/3dcf8e98a16a5dc1aef34f7a8a9820a7",
+        "photo2": "https://cf.shopee.co.id/file/d0b55ac2d8daa84b5214a6f43430de5e",
+        "photo3": "",
+        "description": "Size: M fit L, Condition: 9/10, Unisex",
+        "stock": 1,
+        "categoryId": 4
+    },
+    {
+        "id": 2,
+        "name": "Blue & White New York Fashion Varsity Jacket",
+        "price": 90000,
+        "photo1": "https://cf.shopee.co.id/file/74a93fca8df2d83a702e7dd86ebc4054",
+        "photo2": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/5/10/e8e5ca6e-af50-418e-8d62-180d52c4aed4.jpg",
+        "photo3": "",
+        "description": "Size: M fit L, Condition: 9/10, Unisex",
+        "stock": 1,
+        "categoryId": 4
+    },
+    {
+        "id": 3,
+        "name": "Yellow Baseball Sportive Club Hoodie",
+        "price": 80000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/9/25/yellow_baseball_sportive_club__1632610465_a72c85f1_progressive_thumbnail.jpg",
+        "photo2": "https://cf.shopee.co.id/file/4d8c0e891fa4560294fc87d797a1389b",
+        "photo3": "",
+        "description": "Size: M fit L, Condition: 9/10, Male",
+        "stock": 2,
+        "categoryId": 4
+    },
+    {
+        "id": 4,
+        "name": "Kitch Superlative Crewneck",
+        "price": 85000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/9/25/kitch_superlatives_baby_blue_f_1632610016_c96ed58d_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/9/25/kitch_superlatives_baby_blue_f_1632610016_28ff59ff.jpg",
+        "photo3": "",
+        "description": "Size: M fit L, Condition: 9/10, Unisex",
+        "stock": 2,
+        "categoryId": 4
+    },
+    {
+        "id": 5,
+        "name": "Red Prep 08 Backprint Crewneck",
+        "price": 55000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/9/25/red_prep_08_backprint_crewneck_1632609711_43866333_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/9/25/red_prep_08_backprint_crewneck_1632609711_40ae2407_progressive.jpg",
+        "photo3": "",
+        "description": "Size: M fit L, Condition: 9/10, Unisex",
+        "stock": 1,
+        "categoryId": 4
+    },
+    {
+        "id": 6,
+        "name": "Kaos BASIC+",
+        "price": 65000,
+        "photo1": "https://cf.shopee.co.id/file/962650b06f8c30069da02a76724b6f62",
+        "photo2": "https://cf.shopee.co.id/file/6746b7dba39157c08abc6de34ba1e3db",
+        "photo3": "",
+        "description": "Size M & L, Condition: 10/10, Unisex, DM for Color",
+        "stock": 10,
+        "categoryId": 1
+    },
+    {
+        "id": 7,
+        "name": "Baju Shaggy Scooby-doo",
+        "price": 80000,
+        "photo1": "https://image.shutterstock.com/image-photo/green-polo-tshirt-mock-up-260nw-661704601.jpg",
+        "photo2": "https://cdn.pastemagazine.com/www/articles/2019/03/04/matthew%20lillard%20shaggy%20main%20%28Custom%29.png",
+        "photo3": "",
+        "description": "Size L, Condition 9/10, Male",
+        "stock": 1,
+        "categoryId": 1
+    },
+    {
+        "id": 8,
+        "name": "Kaos Warna Coklat Keren Banget",
+        "price": 90000,
+        "photo1": "https://n.nordstrommedia.com/id/sr3/bc1afe4c-84dc-46c1-931c-70e2a639dc78.jpeg?h=365&w=240&dpr=2",
+        "photo2": "https://images.bewakoof.com/original/brown-half-sleeve-t-shirt-men-s-plain-t-shirts-235435-1586163017.jpg",
+        "photo3": "",
+        "description": "Size XL, Condition 8.5/10, Male",
+        "stock": 1,
+        "categoryId": 1
+    },
+    {
+        "id": 9,
+        "name": "Kaos Kolaborasi Indonesia x Polandia",
+        "price": 95000,
+        "photo1": "https://i.pinimg.com/736x/23/20/77/23207702df3617062cc23db8f4733f35--mens-polo-le-style.jpg",
+        "photo2": "https://images.stylight.net/image/upload/e_trim/t_web_product_330x440max_nobg/q_auto:eco,f_auto/ggdb5wr1qne1paebhszb.jpg",
+        "photo3": "",
+        "description": "Size L, Condition 9/10, Male",
+        "stock": 1,
+        "categoryId": 1
+    },
+    {
+        "id": 10,
+        "name": "Kaos Polo Lecek",
+        "price": 100000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/8/14/polo_shirt_peach_1628915256_7d493524.jpg",
+        "photo2": "",
+        "photo3": "",
+        "description": "Size M, Condition 6/10, Belum Disetrika",
+        "stock": 1,
+        "categoryId": 1
+    },
+    {
+        "id": 11,
+        "name": "Sepatu Hitam Keren Banget Wow",
+        "price": 170000,
+        "photo1": "https://s1.bukalapak.com/img/1259133113/large/SEPATU_VANS_AUTHENTIC_VINTAGE_BLACK_WHITE_PREMIUM_WAFFLE_IFC.jpg",
+        "photo2": "https://images.tokopedia.net/img/cache/250-square/product-1/2019/8/16/74629480/74629480_939887df-1297-47b3-924c-febed2963eed_659_659",
+        "photo3": "",
+        "description": "Size 38, Condition 8/10, Unisex",
+        "stock": 1,
+        "categoryId": 3
+    },
+    {
+        "id": 12,
+        "name": "Sepatu Lari Kencang",
+        "price": 270000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/11/17/new_balance_running_shoes_1637113128_6e4cc5ee_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/11/17/new_balance_running_shoes_1637113128_fbd6354c_progressive.jpg",
+        "photo3": "",
+        "description": "Size 40, Condition 9/10, Female",
+        "stock": 1,
+        "categoryId": 3 
+    },
+    {
+        "id": 13,
+        "name": "Sepatu Naik",
+        "price": 330000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/11/18/nike_1637223061_241c2fc3_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/11/18/nike_1637223061_2f94d292_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/11/18/nike_1637223061_dfd888f8_progressive.jpg",
+        "description": "Size 41, Condition 8/10, Unisex",
+        "stock": 1,
+        "categoryId": 3
+    },
+    {
+        "id": 14,
+        "name": "Sepatu Sekolah Pejuang",
+        "price": 120000,
+        "photo1": "https://media.karousell.com/media/photos/products/2020/03/31/converse_adidas_nike_1585669308_3cde6528_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2020/03/31/converse_adidas_nike_1585669308_5ab38cfb_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2020/03/31/converse_adidas_nike_1585669308_76861622_progressive.jpg",
+        "description": "Size 40, Condition 9/10, Unisex",
+        "stock": 1,
+        "categoryId": 3 
+    },
+    {
+        "id": 15,
+        "name": "Sepatu Anak Campuss",
+        "price": 800000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/11/16/sepatu_compass_retrograde_hi_w_1637039579_eaa15aeb_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/11/16/sepatu_compass_retrograde_hi_w_1637039579_7eee35c6_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/11/16/sepatu_compass_retrograde_hi_w_1637039579_4bea3eda_progressive.jpg",
+        "description": "Size 41, Condition 10/10, Unisex",
+        "stock": 1,
+        "categoryId": 3 
+    },
+    {
+        "id": 16,
+        "name": "Topi Baseball",
+        "price": 120000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/11/17/topi_baseball_mlb_white_sox_me_1637133832_8cc0cb9a_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/11/17/topi_baseball_mlb_white_sox_me_1637133832_a62eec0b_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/11/17/topi_baseball_mlb_white_sox_me_1637133832_a9632d59_progressive.jpg",
+        "description": "Size M, Condition 8/10, Unisex",
+        "stock": 3,
+        "categoryId": 5
+    },
+    {
+        "id": 17,
+        "name": "Topi Hitam Cap Panda",
+        "price": 80000,
+        "photo1": "https://media.karousell.com/media/photos/products/2020/03/10/topi_panda_1583841057_0390818f_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2020/03/10/topi_panda_1583841057_93d5afb5_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2020/03/10/topi_panda_1583841057_8234a19f_progressive.jpg",
+        "description": "Size M, Condition 9/10, Unisex",
+        "stock": 3,
+        "categoryId": 5 
+    },
+    {
+        "id": 18,
+        "name": "Topi Asli Cap Rusa",
+        "price": 95000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/11/18/topi_rimba_1637220597_b68dd923_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/11/18/topi_rimba_1637220597_3c33da9e_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/11/18/topi_rimba_1637220597_9bc82bc7_progressive.jpg",
+        "description": "Size All, Condition 8/10, Unisex",
+        "stock": 3,
+        "categoryId": 5 
+    },
+    {
+        "id": 19,
+        "name": "Topi Peperangan",
+        "price": 80000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/10/31/topi_cap_levis_camo_second_pre_1635687482_dfafca2e_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/10/31/topi_cap_levis_camo_second_pre_1635687482_3bc65a08_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/10/31/topi_cap_levis_camo_second_pre_1635687482_39206768_progressive.jpg",
+        "description": "Size All, Condition 9.5/10, Unisex",
+        "stock": 3,
+        "categoryId": 5 
+    },
+    {
+        "id": 20,
+        "name": "Topi Bajak Laut",
+        "price": 500000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/10/29/topi_one_piece_1635507333_2eae088b_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/10/29/topi_one_piece_1635507333_2a09c9c8_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/10/29/topi_one_piece_1635507334_176f29bb_progressive.jpg",
+        "description": "Size S, Condition 7/10, Male",
+        "stock": 1,
+        "categoryId": 5 
+    },
+    {
+        "id": 21,
+        "name": "Celana Cargo Coklat",
+        "price": 160000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/11/14/sale_celana_cargo_portbridge_e_1636853093_c95979a7_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/11/14/sale_celana_cargo_portbridge_e_1636853093_8e3fd6ba_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/11/14/sale_celana_cargo_portbridge_e_1636853093_d87cdb97_progressive.jpg",
+        "description": "Size L, Condition 8/10, Male",
+        "stock": 1,
+        "categoryId": 2
+    },
+    {
+        "id": 22,
+        "name": "Celana Denim Ghoib Bisa Berdiri Sendiri",
+        "price": 600000,
+        "photo1": "https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/haifoto/original/81238_naked-famous-32-oz.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/11/14/sage_denim_19oz_size_28_1636863663_e8f97fd2_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/11/14/sage_denim_19oz_size_28_1636863663_43d921cf_progressive.jpg",
+        "description": "Size L, Condition 7/10, Male",
+        "stock": 1,
+        "categoryId": 2
+    },
+    {
+        "id": 23,
+        "name": "Celana Pendek Pantai",
+        "price": 125000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/11/15/floral_short_man_1637016643_f0040d42_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/11/15/floral_short_man_1637016642_90b1c9ca_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/11/15/floral_short_man_1637016642_bfcc2099_progressive.jpg",
+        "description": "Size XL, Condition 8/10, Male",
+        "stock": 2,
+        "categoryId": 2
+    },
+    {
+        "id":24,
+        "name": "Celana Olahraga",
+        "price": 75000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/10/17/_paketan_3pcs__celana_jogger_p_1634511720_03c2daf7_progressive",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/11/2/_paketan_3pcs__celana_jogger_p_1635884999_1761c3ca_progressive",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/11/2/_paketan_3pcs__celana_jogger_p_1635884999_c037b49d_progressive",
+        "description": "Size XL, Condition 7/10, Male",
+        "stock": 1,
+        "categoryId": 2
+    },
+    {
+        "id": 25,
+        "name": "Celana Basket",
+        "price": 150000,
+        "photo1": "https://media.karousell.com/media/photos/products/2021/11/15/celana_basket_jordan_jumpman_1636987000_96eb8d43_progressive.jpg",
+        "photo2": "https://media.karousell.com/media/photos/products/2021/11/15/celana_basket_jordan_jumpman_1636987000_d7122eb0_progressive.jpg",
+        "photo3": "https://media.karousell.com/media/photos/products/2021/11/15/celana_basket_jordan_jumpman_1636987000_b242bbf6_progressive.jpg",
+        "description": "Size L, Condition 9/10, Male",
+        "stock": 1,
+        "categoryId": 2
+    }
+
+]

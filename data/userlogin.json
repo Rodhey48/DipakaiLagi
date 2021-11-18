@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Anto",
+        "email": "anto@mail.com",
+        "password": "a12345",
+        "address": "jalan pulang",
+        "phoneNumber": "012345678",
+        "type": "Admin"
+    },
+    {
+        "id": 2,
+        "name": "Budi",
+        "email": "budi@mail.com",
+        "password": "b12345",
+        "address": "jalan suci",
+        "phoneNumber": "021345678",
+        "type": "Customer"
+    },
+    {
+        "id": 3,
+        "name": "Coki",
+        "email": "cokichuakz@mail.com",
+        "password": "c12345",
+        "address": "jalan pergi",
+        "phoneNumber": "032145678",
+        "type": "Customer"
+    },
+    {
+        "id": 4,
+        "name": "Desi",
+        "email": "desi@mail.com",
+        "password": "d12345",
+        "address": "jalan ninjaku",
+        "phoneNumber": "043215678",
+        "type": "Customerr"
+    }
+]
