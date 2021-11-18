@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin DipakaiLagi</title>
+</head>
+<body>
+    <h3>Panel Admin</h3>
+    <a href="/admin/listitems"><button>List Item</button></a>
+    <a href="/admin/listsold"><button>List Sold</button></a><br>
+    <br>
+    <p>ADD ITEM</p>
+
+    <form action="/admin/additem" method="post">
+        <label for="name">name :</label><br>
+        <input type="text" id="name" name="name" ><br>
+        <label for="price">price :</label><br>
+        <input type="number" id="price" name="price" ><br>
+        <label for="photo1">Url Photo1 :</label><br>
+        <input type="text" id="photo1" name="photo1" ><br>
+        <label for="photo2">Url Photo2 :</label><br>
+        <input type="text" id="photo2" name="photo2" ><br>
+        <label for="photo3">Url Photo3 :</label><br>
+        <input type="text" id="photo3" name="photo3" ><br>
+        <label for="stock">Stock :</label><br>
+        <input type="number" id="stock" name="stock" ><br>
+        <label for="CategoryId">Category :</label><br>
+        <select id="CategoryId" name="CategoryId">
+            <option  selected disabled value="">--Choose Category--</option>
+            <% data.forEach(el => { %>
+                <option value="<%= el.id%>"><%= el.name%></option>
+            <%})%>
+        </select><br>
+
+        <label for="description">Description : </label><br>
+        <textarea rows="4" cols="30" name="description"></textarea><br>
+
+        <input type="submit" value="register">
+      </form> 
+    
+</body>
+</html>

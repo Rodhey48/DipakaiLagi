@@ -9,4 +9,4 @@ router.get('/', LoginController.showLogin)
 router.post('/', LoginController.postLogin)
 
 
-module.exports = router
+module.exports = router 

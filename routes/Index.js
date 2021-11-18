@@ -26,20 +26,20 @@ router.use("/login", login)
 router.use("/register", register )
 
 
-// app.use(function (req, res, next) {
-//     console.log(req.session.username)
-//     if (req.session.username) next()
-//     else res.redirect('/')
-// })
+app.use(function (req, res, next) {
+    console.log(req.session.username)
+    if (req.session.username) next()
+    else res.redirect('/')
+})
 router.use('/beranda', beranda)
 
-// app.use(function (req, res, next) {
-//     if (req.session.username && req.session.type === 'Admin') next()
-//     else res.redirect('/')
+app.use(function (req, res, next) {
+    if (req.session.username && req.session.type === 'Admin') next()
+    else res.redirect('/')
    
-// })
+})
 router.use('/admin', admin)
 
 
 
-module.exports = router
+module.exports = router 
