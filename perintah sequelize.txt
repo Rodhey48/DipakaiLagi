@@ -1,0 +1,5 @@
+1. sequelize-cli db:create
+
+2. npx sequelize-cli model:generate --name User --attributes name:string,password:string,address:string,telephone:string,email:string,type:string
+3. npx sequelize-cli db:migrate
+
