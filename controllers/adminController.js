@@ -14,12 +14,14 @@ class ControllerAdmin {
             item.findAll({
                 include: [{
                     model: category,
-                    where: {
-                        name: {
-                            [Op.like]: search
-                        }
+                    
+                },],
+                where: {
+                    name: {
+                        [Op.like]: search
                     }
-                }]
+                }
+                
             })
             .then( data => {
                 // console.log(data[0].category)
@@ -54,6 +56,40 @@ class ControllerAdmin {
         item.create(input)
         .then(data => res.redirect("/admin/listitems"))
         .catch(err => res.send(err))
+    }
+    static editItem (req, res) {
+        let id = req.params.id
+        // console.log(+id)
+        item.findByPk(+id)
+        .then (item => {
+            category.findAll()
+            .then(categories => {
+                res.render("edititem", {item, categories})
+
+            })
+            .catch(err => {
+                res.send(err)
+            })
+        })
+        .catch(err => {
+            res.send(err)
+        })
+    }
+    static postEditItem (req, res) {
+        let idI = +req.params.id
+        let input = req.body
+        console.log(input)
+        item.update(input, {
+            where: {id: idI}
+        })
+        .then(data => res.redirect(`/admin/listitems`))
+        .catch(err => res.send(err))
+    }
+    static deleteItem (req, res) {
+        let idI = +req.params.id
+        item.destroy ({where: {id: idI}})
+            .then(data => res.redirect(`/admin/listitems`))
+            .catch(err => res.send(err))
     }
 }
 

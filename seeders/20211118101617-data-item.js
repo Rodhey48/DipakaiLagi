@@ -12,6 +12,7 @@ module.exports = {
      * }], {});
     */let data = JSON.parse(fs.readFileSync("./Data/item.json", 'utf-8'))
     data.forEach(el => {
+      delete el.id
       el.CategoryId = el.categoryId
       delete el.categoryId
       el.createdAt = new Date ()
