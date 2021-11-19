@@ -12,11 +12,12 @@ class Controller {
         User.findOne({where: {name: input.username}})
         .then (data => {
             const flagLogin = bcrypt.compareSync(input.password, data.password)
+            console.log(data)
             console.log(flagLogin)
             if (flagLogin) {
-                // console.log(data.name)
-                // req.session.username = data.name
-                // req.session.type = data.type
+                console.log(data.name)
+                req.session.username = data.name
+                req.session.type = data.type
                 if(data.type === "Admin") res.redirect("/admin")
                 else if(data.type === "Custumer") res.redirect("/beranda")
             }else res.redirect('/login')
