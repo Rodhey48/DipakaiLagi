@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "name": "baju"
+        "name": "Baju"
     },
     {
         "id": 2,
-        "name": "celana"
+        "name": "Celana"
     },
     {
         "id": 3,
-        "name": "sepatu"
+        "name": "Sepatu"
     },
     {
         "id": 4,
-        "name": "jaket"
+        "name": "Jaket"
     },
     {
         "id": 5,
-        "name": "topi"
+        "name": "Topi"
     }
 ] 
